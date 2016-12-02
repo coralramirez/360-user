@@ -1,0 +1,187 @@
+
+/*-----header------*/
+
+header{
+    background-image: url(../image/large.jpg);
+    background-size: cover;
+    color: #fff;
+    
+}
+.menu{
+    margin-top: 30px;
+}
+nav li a{
+    display: block;
+	padding: 15px 15px;
+	transition: all 0.2s;
+	border-radius: 6px;
+}
+nav a{
+    color: #fff;
+    
+
+}
+nav li a:hover, nav li a:focus, nav li a:active{
+	text-decoration: none;
+	outline: none;
+	background: #FFF;
+}
+
+#main-navigation
+{
+
+	position: absolute;
+	right: 10px;
+	margin: 10px 0 0 0;
+}
+#main-navigation ul
+{
+	background: rgba(0,0,0,0.7);
+	list-style: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+.opacity{
+    background-color: 
+    rgba(0,0,0,0.2)
+}
+.frase{
+    text-align: center;
+    color: white;
+    margin:160px auto;
+    
+}
+.header-container{
+    background:rgb(116,163,219);
+    opacity: 0.8;
+    color: white;
+    position: relative;
+}
+.header,button{   
+   background:rgb(116,163,219); 
+   opacity: 0.8;
+   border: 2px solid white;
+   margin: 40px;
+}
+/*-----section1----*/
+.servicios h3{
+    color: #5f8fcb;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+.icon-container{
+    width: 150px;
+    height: 150px;
+    margin:0 auto;
+    line-height:150px;
+    font-size: 60px;
+    text-align: center;
+    box-shadow: -2px 2px 10px rgba(0,0,0,0.2);
+    border-radius: 250px;
+    color: lightblue;
+    padding-top: 30px;
+}
+.servicios {
+    text-align: center;
+}
+.servicios h4{
+    color: #6c96ea;
+}
+.separador{
+    padding: 30px;
+}
+/*----- seciton2-----*/
+.logo{
+    width: 260px;
+}
+ .flecha{
+     margin:40px 150px;
+     width: 60px;
+     height: 50px;
+     position: relative;
+     bottom: 40px;
+}
+/*-------section3-------*/
+.iconos{
+    margin:-130px;
+    position: relative;
+    bottom: 170px;
+}
+.iconos li{
+    padding: 40px;
+}
+.iconos i{
+    background: #1cb0ce;
+    border-radius: 20px;
+    padding:16px;
+
+}
+
+
+.hombre{
+    height: 500px;
+    width: 450px;
+    opacity: 0.9;
+}
+.uso h5{
+    font-size: 20px;
+}
+.uso h6{
+    font-size: 15px;
+    color: skyblue;
+}
+/*------section4------*/
+.porqueusar{
+    margin: 60px auto;
+    
+}
+.ban{
+    height: 50px;
+}
+.porqueusar h7{
+    font-size: 20px;
+}
+.porqueusar img{
+    height: 
+}
+.laptop img{
+    height: 310px;
+    width: 400px;
+    opacity: 0.9;
+    
+} 
+/*-------section5--------*/
+
+.prueba{
+    background:rgb(116,163,219);
+    opacity: 0.8;
+    color: white;
+}
+.prueba button{   
+   background:rgb(116,163,219); 
+   opacity: 0.8;
+   border: 2px solid white;
+    margin-top:40px;
+    height: 30px;
+    width: 200px;
+}
+/*-------section6-------*/
+.footer{
+    background: rgb(42,53,65);
+    color: white;
+    padding: 20px;
+
+}
+.contactanos{
+    text-align: right;
+}
+.contactanos i{
+    color: #3f3fea;
+    font-size: 30px;
+    margin: 6px;
+    
+}
+    
+
+
